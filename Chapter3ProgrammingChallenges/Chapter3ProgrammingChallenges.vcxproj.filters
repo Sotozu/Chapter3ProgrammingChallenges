@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source\01 Miles per Gallon.cpp">
+    <ClCompile Include="20 Pizza Pi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
